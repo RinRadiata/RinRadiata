@@ -8,14 +8,15 @@ It features a custom dialogue interpreter, branching choices, character systems,
 
 ## Tech Stack
 
-## Tech Stack
-
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Live2D](https://img.shields.io/badge/Live2D%20Cubism-000000?style=for-the-badge&logo=live2d&logoColor=white)](https://www.live2d.com/)
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+
+<a href="https://www.live2d.com/">
+  <img src="https://raw.githubusercontent.com/RinRadiata/RinRadiata/main/Cubism%20logo/Cubism%20logo%20orange.png" alt="Live2D Cubism" height="28">
+</a>
 
 ---
 
