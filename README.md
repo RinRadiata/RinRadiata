@@ -1,6 +1,6 @@
 Mainly work with **Unity and C#**, focusing on game systems, framework architecture, and interactive storytelling.
 
-## Project Nostalgia (EDEN: A Flowering Waves of Nostalia) — Main Project
+## Project Nostalgia (EDEN: A Flowering Waves of Nostalia) - Main Project
 
 A **2D Visual Novel framework** built from scratch with Unity and C#.
 
