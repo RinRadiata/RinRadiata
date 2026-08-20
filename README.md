@@ -1,16 +1,15 @@
-## Hi there 👋
+Mainly work with **Unity and C#**, focusing on game systems, framework architecture, and interactive storytelling.
 
-<!--
-**RinRadiata/RinRadiata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project Nostalgia (EDEN: A Flowering Waves of Nostalia) — Main Project
 
-Here are some ideas to get you started:
+A **2D Visual Novel framework** built from scratch with Unity and C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It features a custom dialogue interpreter, branching choices, character systems, Live2D integration, save/load, story variables, affection tracking, gallery systems, and more.
+
+## Tech Stack
+
+**C# · Unity · Git · GitHub · Live2D Cubism · Photoshop**
+
+---
+
+> Building systems, experimenting with game architecture, and turning ideas into playable experiences.
